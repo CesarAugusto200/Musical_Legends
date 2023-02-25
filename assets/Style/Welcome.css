@@ -1,0 +1,22 @@
+
+.msn{
+    position: absolute;
+width: 690px;
+height: 86px;
+
+background: rgba(22, 11, 11, 0.6);
+}
+.texto1{
+    position: absolute;
+  width: 2197px;
+height: 42px;
+font-family: 'K2D';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #FFFFFF;
+}

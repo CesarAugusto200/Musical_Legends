@@ -1,0 +1,39 @@
+body{
+    background-image: url(../img/Piano.jpg);
+     background-size: cover;     
+     
+}
+
+.Conteiner{
+  position: absolute;
+  display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: space-evenly;
+width: 237px;
+height: 422px;
+background: rgba(22, 11, 11, 0.7);
+border-radius: 15px;
+left:40%
+}
+
+.Texto{
+    position: absolute;
+    left: 45%;
+width: 128px;
+height: 32px;
+
+font-family: 'K2D';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #FFFFFF;
+}
+
+label{
+    color: white;
+}
