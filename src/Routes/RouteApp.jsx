@@ -10,14 +10,16 @@ function RouteApp(){
           
          
           <Routes>
+        
               <Route>
              
-                  <Route path="/" element={<LoginPage/>}></Route>
-                  <Route path="/LoginPage" element={<LoginPage/>}></Route>
-                  <Route path="/registerPage" element={<RegisterPage/>}></Route>
               
-    
+                  <Route path="/LoginPage" element={<LoginPage/>}></Route>
+                  <Route path="/register" element={<RegisterPage/>}></Route>
+              
+                    
               </Route>
+              
           </Routes>
     
     
